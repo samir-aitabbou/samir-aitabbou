@@ -25,7 +25,7 @@
   
   🔭 I’m currently working on a Big data Project ( Scraping, Hadoop, Spark, Kafka, Bi .... )
 
-  🌱 I’m currently learning professional Scraping (scrapy,selenuim,splash...) , Big data analysis and ML/DL/Nlp.
+  🌱 I’m currently learning professional Scraping (scrapy,selenuim,splash...),business intelligence , Big data analysis and ML/DL/Nlp.
 
   💬 Ask me about ML/DL/Nlp ans Big data  
 
