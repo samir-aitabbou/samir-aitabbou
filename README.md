@@ -11,11 +11,11 @@
   </h1>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ali-salmi/">
+  <a href="https://www.linkedin.com/in/samir-ait-abbou-b5090a1bb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=samir&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=samir-aitabbou&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div align="center">
@@ -24,13 +24,13 @@
 <h2>:woman_technologist: About Me : </h2>
 <div align="center">
   
-  🔭 I’m currently working on infrastructure as a code project with Terraforme and Ansible
+  🔭 I’m currently working on a Big data Project ( Scraping, Hadoop, Spark, Kafka, Bi .... )
 
-  🌱 I’m currently learning Kubernetes,Terraform, Ansible and Azure 
+  🌱 I’m currently learning professional Scraping (scrapy,selenuim,splash...) , Big data analysis and ML/DL/Nlp.
 
-  💬 Ask me about Docker,Kuberenetes, Terraforme,Nexus, and Jenkins 
+  💬 Ask me about ML/DL/Nlp ans Big data  
 
-  📫 How to reach me **salmiali1937@gmail.com** 
+  📫 How to reach me **samiraitabbou2001@gmail.com** 
 </div>
 
 <h2> :hammer_and_wrench: Languages and Tools :</h2>
@@ -42,20 +42,7 @@
 <br>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Ali-Salmi&theme=dark&hide_border=true&border_radius=8" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=samir-aitabbou&theme=dark&hide_border=true&border_radius=8" />
 </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samir-aitabbou&show_icons=true&locale=en" alt="bahaddouayoub" /></p>
 
-<!--
-**samir-aitabbou/samir-aitabbou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
