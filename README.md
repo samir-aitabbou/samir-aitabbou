@@ -1,13 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <div align="center">
   <h1>
     Hey there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I’m <strong>Samir AIT-ABBOU</strong>
-    <h3>Data Engineer | AI Enthusiast | Big Data Expert</h3>
-    <p>With a passion for turning data into actionable insights, I specialize in building scalable data solutions, integrating machine learning models, and leveraging cloud technologies for big data analysis. Explore my projects and feel free to connect with me!</p>
   </h1>
+  <h3>AI Engineer | Data Science Consultant | LLMs & Big Data Enthusiast</h3>
+  <p>Turning unstructured data into smart, scalable solutions using AI, NLP, and cloud-native tech.</p>
 </div>
 
 <div id="badges" align="center">
@@ -24,30 +25,59 @@
 
 ---
 
-### 🔍 **About Me**
-- 🎓 Pursuing a Master’s degree in **Artificial Intelligence** at **Université d’Avignon**, with a background in **Big Data Engineering** from UM6P.
-- 💡 Skilled in designing and optimizing **data pipelines** using tools like **Kafka**, **Spark**, and **Hadoop**.
-- 🌐 Experienced with **cloud platforms** like AWS, GCP, and Azure for scalable data solutions.
-- 🤖 Enthusiastic about integrating **Machine Learning models** (NLP, LLMs, classification) into data workflows.
-- 🚀 Passionate about working on projects that combine **data science** and **big data technologies** to deliver impactful results.
+## 👋 Bonjour, je suis Samir AIT-ABBOU
+
+🎓 Ingénieur IA & Consultant Data Science spécialisé en **GenAI, NLP, LLMs et MLOps**  
+🌍 Basé à **Marseille, France** | 📅 Ouvert aux **opportunités R&D** en **CDI, mission ou collaboration technique**
 
 ---
 
-### 📊 **Current Focus**
-- 📍 Building real-time data ingestion pipelines using **Kafka** and **Big Data technologies**.
-- 🔍 Learning advanced cloud architecture and deployment strategies (GCP, AWS, Terraform).
-- 📈 Exploring **LLM metrics evaluation** and benchmarking models for real-world applications.
-- 🛠 Expanding expertise in professional scraping, **business intelligence tools**, and large-scale data processing.
+## 🚀 À propos de moi
+
+Passionné par l’intelligence artificielle appliquée et les grands modèles de langage, je conçois des solutions robustes et scalables autour du **traitement de documents**, de l’**extraction d’information**, et du **déploiement de systèmes intelligents**.  
+J’interviens aussi bien en **développement d’architectures RAG**, **fine-tuning de modèles LLM souverains**, qu’en **mise en place de pipelines MLOps** pour des environnements cloud sécurisés (GCP, AWS, cloud souverain...).
 
 ---
 
-### 📬 **Contact Me**
-- 📧 **samiraitabbou2001@gmail.com**
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/samir-ait-abbou-b5090a1bb/)
+## 🧠 Compétences Techniques
+
+- **IA & GenAI :** RAG · LLMs · Prompt Engineering · LangChain · Agents intelligents  
+- **Deep Learning & NLP :** Transformers · HuggingFace · Spacy · Flair · LayoutLM  
+- **MLOps :** Docker · GitLab CI/CD · Kubernetes · MLflow · Terraform · Grafana  
+- **Data Engineering :** Spark · Kafka · Airflow · Cassandra · BigQuery · ELK  
+- **Langages :** Python · SQL · R · Java · C++  
+- **Web & APIs :** FastAPI · Streamlit · FAISS · OCR (Tesseract)  
+- **Cloud :** AWS · GCP · préparation Cloud souverain (SecNumCloud)
 
 ---
 
-### 🛠 **Languages and Tools**
+## 💼 Expériences Récentes
+
+### 🔬 Ingénieur R&D IA – Aix-Marseille Université (2024 - présent)
+> 🔧 Déploiement d'agents IA augmentés (LLMs + RAG)  
+> 🔁 Pipelines MLOps, CI/CD, Spark, Airflow  
+> 📄 Structuration automatique de documents
+
+### 🤖 Consultant LLMs – Alteca, Paris (2024)
+> 🧪 Benchmarking LLMs pour génération de code  
+> ☁️ Déploiement cloud (GCP), Big Data (Kafka, Cassandra, Airflow)
+
+### 🌍 Données géospatiales – CRSA (UM6P, 2023)
+> 🔄 Architecture Lambda temps réel  
+> 📊 APIs Spark · visualisation Grafana
+
+---
+
+## 📘 Projets & Contributions
+
+- 🧠 **RAG-based Chatbot** – Agent intelligent sur documents internes (LLMs + LangChain + FAISS)
+- 🔍 **NER & Extraction d'information** – OCR + NLP pour documents semi-structurés
+- 🧪 **LLMs Benchmarking** – Comparatif fine-tuning vs prompt-tuning
+- 🚀 **Pipelines MLOps complets** – Docker · CI/CD · Monitoring
+
+---
+
+## 🛠 Languages & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
@@ -60,22 +90,18 @@
 
 ---
 
-### 📚 **Projects**
-- 🔄 **Real-Time Medical Data Prediction with Kafka**  
-  *Technologies*: Kafka, Machine Learning, Python  
-  - Built a real-time pipeline to process and predict diabetes cases using Kafka streams.  
+## 📫 Me contacter
 
-- 📊 **Big Data BI Framework for Scientific Publications**  
-  *Technologies*: Hadoop, Spark, Power BI, Scrapy  
-  - Scraped and analyzed publication data to identify research trends and visualized insights with BI tools.
-
-- 🤖 **NLP Movie Reviews Sentiment Prediction**  
-  *Technologies*: Python, NLP (TF-IDF, Word2Vec)  
-  - Developed a solution to predict movie ratings based on short reviews using machine learning.
+- 💼 [LinkedIn](https://www.linkedin.com/in/samir-ait-abbou-b5090a1bb)
+- ✉️ [samiraitabbou2001@gmail.com](mailto:samiraitabbou2001@gmail.com)
 
 ---
 
-### 📈 **GitHub Stats**
+> *“Build AI that matters.”* 🔬🤖
+
+---
+
+## 📈 GitHub Stats
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=samir-aitabbou&theme=dark&hide_border=true&border_radius=8" />
 </p>
