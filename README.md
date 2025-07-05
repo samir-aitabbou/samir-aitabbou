@@ -53,27 +53,42 @@ J’interviens aussi bien en **développement d’architectures RAG**, **fine-tu
 
 ## 💼 Expériences Récentes
 
-### 🔬 Ingénieur R&D IA – Aix-Marseille Université (2024 - présent)
-> 🔧 Déploiement d'agents IA augmentés (LLMs + RAG)  
-> 🔁 Pipelines MLOps, CI/CD, Spark, Airflow  
-> 📄 Structuration automatique de documents
+### 🔬 Ingénieur R&D IA / Consultant Data Science – Aix-Marseille Université (2024 – présent)  
+- Conception d’agents IA intelligents basés sur LLMs open source (GPT-like), intégrés à des architectures RAG (LangChain, FAISS)  
+- Développement du **Projet Agent MAP** : système de navigation intelligent pour orienter étudiants et personnel sur le campus AMU (géolocalisation, requêtes en langage naturel, accessibilité PMR)  
+- Automatisation de la structuration documentaire (OCR, NLP, LayoutLM)  
+- Mise en place de pipelines MLOps complets : CI/CD, monitoring, conteneurisation (Docker, MLflow, Kubernetes)  
+- Traitement de données massives avec Spark et orchestration via Airflow  
+- Suivi et documentation technique dans un cadre Agile
 
-### 🤖 Consultant LLMs – Alteca, Paris (2024)
-> 🧪 Benchmarking LLMs pour génération de code  
-> ☁️ Déploiement cloud (GCP), Big Data (Kafka, Cassandra, Airflow)
+### 🤖 Stagiaire R&D – Ingénierie des données et LLMs – Alteca, Paris (Fév. 2024 – Août 2024)  
+- Benchmarking LLMs pour génération et correction de code  
+- Développement de pipelines distribués (Kafka, Spark) avec stockage sur Cassandra & BigQuery  
+- Automatisation et déploiement cloud (GCP) via Airflow & CI/CD (GitLab, Azure DevOps)
 
-### 🌍 Données géospatiales – CRSA (UM6P, 2023)
-> 🔄 Architecture Lambda temps réel  
-> 📊 APIs Spark · visualisation Grafana
+### 🌍 Stagiaire R&D – Big Data & Données géospatiales – CRSA (UM6P) (Fév. 2023 – Août 2023)  
+- Conception d’une architecture Lambda pour ingestion temps réel (Kafka, HDFS)  
+- Développement d’APIs analytiques avec Spark et visualisation avancée (Grafana)
+
+### 📡 Stagiaire Ingénieur Données – MediaCaris, Tanger (Août 2022 – Déc. 2022)  
+- Ingestion de données avec NiFi, traitement Spark, création de dashboards sur Kibana
+
+### 🧠 Stagiaire Deep Learning / NLP – 3D Smart Factory, Casablanca (Mai 2022 – Août 2022)  
+- Classification de documents scientifiques (TF-IDF, BERT, CNN)  
+- Pipelines d’extraction sémantique et déploiement NLP
+
+### 📊 Stagiaire Machine Learning – The Sparks Foundation (remote) (Avril 2022 – Mai 2022)  
+- Modélisation SVM, KMeans, Random Forest sur jeux de données open source
 
 ---
 
 ## 📘 Projets & Contributions
 
-- 🧠 **RAG-based Chatbot** – Agent intelligent sur documents internes (LLMs + LangChain + FAISS)
-- 🔍 **NER & Extraction d'information** – OCR + NLP pour documents semi-structurés
-- 🧪 **LLMs Benchmarking** – Comparatif fine-tuning vs prompt-tuning
-- 🚀 **Pipelines MLOps complets** – Docker · CI/CD · Monitoring
+- 🧠 **RAG-based Chatbot** – Agent intelligent sur documents internes (LLMs + LangChain + FAISS)  
+- 🔍 **NER & Extraction d'information** – OCR + NLP pour documents semi-structurés  
+- 🧪 **LLMs Benchmarking** – Comparatif fine-tuning vs prompt-tuning  
+- 🚀 **Pipelines MLOps complets** – Docker · CI/CD · Monitoring  
+- 🏢 **Agent MAP** – Système d'orientation intelligent pour Aix-Marseille Université, guidage précis sur campus avec métadonnées bâtiment, accessibilité PMR, navigation conversationnelle
 
 ---
 
@@ -92,7 +107,7 @@ J’interviens aussi bien en **développement d’architectures RAG**, **fine-tu
 
 ## 📫 Me contacter
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/samir-ait-abbou-b5090a1bb)
+- 💼 [LinkedIn](https://www.linkedin.com/in/samir-ait-abbou-b5090a1bb)  
 - ✉️ [samiraitabbou2001@gmail.com](mailto:samiraitabbou2001@gmail.com)
 
 ---
