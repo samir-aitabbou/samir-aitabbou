@@ -1,142 +1,141 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/l4FGJCDK1G0f27Jt6/giphy.gif" width="150" alt="Generative AI GIF"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0a0e14,60:0f3d3a,100:2dd4bf&text=Samir%20AIT-ABBOU&fontColor=e6edf3&fontSize=56&fontAlignY=36&desc=Senior%20Data%20Scientist%20%C2%B7%20GenAI%20Engineer&descSize=22&descAlignY=58&descColor=cbd5e1" width="100%" alt="Samir AIT-ABBOU"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=760&lines=LLM+%C2%B7+RAG+%C2%B7+architectures+multi-agents;Du+cadrage+%C3%A0+la+mise+en+production;Cloud+ou+100%25+on-premise+%C2%B7+vLLM+%C2%B7+Ollama;Marseille%2C+France+%C2%B7+Ouvert+aux+opportunit%C3%A9s" alt="Typing"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/samir-ait-abbou-b5090a1bb/"><img src="https://img.shields.io/badge/LinkedIn-3%20700%2B%20abonn%C3%A9s-101722?style=for-the-badge&logo=linkedin&logoColor=2dd4bf&labelColor=101722&color=1f2b3b" alt="LinkedIn"/></a>
+<a href="https://portfolio-liart-seven-83.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-voir%20le%20site-101722?style=for-the-badge&logo=vercel&logoColor=2dd4bf&labelColor=101722&color=1f2b3b" alt="Portfolio"/></a>
+<a href="mailto:samiraitabbou2001@gmail.com"><img src="https://img.shields.io/badge/Email-me%20contacter-101722?style=for-the-badge&logo=gmail&logoColor=2dd4bf&labelColor=101722&color=1f2b3b" alt="Email"/></a>
+
 </div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><h2>10×</h2><sub>transcription plus rapide<br/>que le temps réel</sub></td>
+<td align="center" width="25%"><h2>24 M+</h2><sub>analyses officielles<br/>traitées</sub></td>
+<td align="center" width="25%"><h2>1 GPU</h2><sub>partagé entre plusieurs<br/>modèles, 100 % local</sub></td>
+<td align="center" width="25%"><h2>8</h2><sub>recommandations<br/>clients et collègues</sub></td>
+</tr>
+</table>
+
+<br/>
+
+Je conçois et industrialise des solutions d'IA générative robustes : **LLM, RAG, agents**, avec une exigence constante sur l'évaluation, l'optimisation et la **sécurisation**. Cloud ou **on-premise**, du diagnostic de maturité à la mise en production, avec un objectif unique : l'impact métier.
+
+<br/>
+
+## `01` Réalisations
+
+<table>
+<tr>
+<td width="50%" valign="top"><b>Rofim</b> &nbsp;<sub><code>SANTÉ / VOIX</code></sub><br/><br/>Pipeline de transcription médicale et de comptes rendus migré vers du <b>100 % self-hosted</b>. Jusqu'à 10× plus rapide que le temps réel.<br/><br/><sub><code>pyannote</code> <code>Whisper</code> <code>Kyutai</code> <code>vLLM</code></sub></td>
+<td width="50%" valign="top"><b>D3E</b> &nbsp;<sub><code>DOCUMENTS / RAG</code></sub><br/><br/>Extraction documentaire, OCR de bons de livraison et assistant RAG pour bureaux d'études, sur <b>un seul GPU</b> mutualisé.<br/><br/><sub><code>Docling</code> <code>PyMuPDF</code> <code>VLM</code> <code>Ollama</code></sub></td>
+</tr>
+<tr>
+<td valign="top"><b>D3E</b> &nbsp;<sub><code>ERP / LLM LOCAL</code></sub><br/><br/>Assistant conversationnel branché sur un ERP WinDev : function calling, API FastAPI et procédures SQL.<br/><br/><sub><code>Function calling</code> <code>FastAPI</code> <code>SQL</code> <code>Docker GPU</code></sub></td>
+<td valign="top"><b>Candide Blue</b> &nbsp;<sub><code>DATA / GÉOSPATIAL</code></sub><br/><br/>Recommandation nationale de filtration d'eau à partir de <b>24 M+ d'analyses</b> officielles croisées à des données géospatiales.<br/><br/><sub><code>Big data</code> <code>Géospatial</code></sub></td>
+</tr>
+<tr>
+<td valign="top"><b>Laneva Boats</b> &nbsp;<sub><code>CONFORMITÉ / AGENTS</code></sub><br/><br/>Pipeline RAG multi-agents pour les rapports navals ES-TRIN, <b>anti-hallucination</b> par calculs déterministes.<br/><br/><sub><code>RAG</code> <code>Multi-agents</code> <code>ES-TRIN</code></sub></td>
+<td valign="top"><b>Sepalumic</b> &nbsp;<sub><code>VISION / INDUSTRIE</code></sub><br/><br/>Identification automatique de profilés aluminium à partir de photos prises en conditions réelles d'atelier.<br/><br/><sub><code>Computer vision</code> <code>Industrie</code></sub></td>
+</tr>
+<tr>
+<td valign="top"><b>GreenCityzen</b> &nbsp;<sub><code>MLOPS / IOT</code></sub><br/><br/>Détection d'anomalies IoT industrialisée en microservice, avec formation des équipes produit et ingénierie.<br/><br/><sub><code>MLflow</code> <code>FastAPI</code> <code>Formation</code></sub></td>
+<td valign="top"><b>Now4Women</b> &nbsp;<sub><code>AGENTS / SANTÉ</code></sub><br/><br/>Plateforme multi-agents générant et adaptant des programmes de bien-être sur 90 jours, avec mémoire conversationnelle.<br/><br/><sub><code>Multi-agents</code> <code>Mémoire</code> <code>Extraction</code></sub></td>
+</tr>
+</table>
+
+<br/>
+
+## `02` Méthode
+
+| 1. Diagnostic | 2. POC | 3. Production | 4. Formation |
+| :-- | :-- | :-- | :-- |
+| Maturité IA, faisabilité, arbitrage coût et souveraineté | RAG, agents, vision, OCR : valider la valeur rapidement | Cloud ou 100 % local, MLOps, CI/CD, monitoring | Sessions sur mesure pour les équipes produit et ingénierie |
+
+<br/>
+
+## `03` Témoignages
+
+> *« Une vraie maîtrise des architectures IA locales et une capacité à les intégrer dans un système d'information existant pour répondre à des problématiques métier concrètes. Sérieux, rigoureux, force de proposition. »*
+> **Benjamin Navarrete**, Responsable informatique groupe, D3D · *client*
+
+> *« Samir was reliable, structured, and clear in his approach, and delivered exactly what we needed at that early stage. I appreciated his professionalism and his ability to translate our requirements into solid technical work. »*
+> **Natalia Gaydukova**, Founder & CEO, NOW For Women · *client*
+
+> *« J'apprécie sa maîtrise des technologies d'IA générative, son sérieux et sa capacité à transformer des problématiques métiers en solutions concrètes. Je le recommande sans hésitation. »*
+> **Christophe Bansart**, EdTech, IA et EDIH · *partenaire*
+
+> *« Samir quickly established himself as a key collaborator thanks to his ability to design innovative AI solutions and develop high-performing data pipelines. »*
+> **Victor Tancrez**, AI Engineer & Data Scientist, EDIH · *collègue*
+
+<sub>Extraits de recommandations publiées sur <a href="https://www.linkedin.com/in/samir-ait-abbou-b5090a1bb/details/recommendations/">LinkedIn</a> (8 reçues).</sub>
+
+<br/>
+
+## `04` Stack
 
 <div align="center">
-  <h1>
-    Hey there! 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand"/> I’m <strong>Samir AIT-ABBOU</strong>
-  </h1>
-  <h2><samp>AI Engineer | LLM, RAG & AI Agents Developer | Data & Workflow Automation ⚙️</samp></h2>
-  <p>🚀 Dedicated to architecting and deploying cutting-edge Generative AI solutions. Turning complex data challenges into scalable, production-ready systems.</p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,docker,kubernetes,terraform,aws,gcp,azure,kafka,spark,airflow,grafana,postgres,mysql,gitlab,linux&perline=9&theme=dark" alt="Stack"/>
 </div>
 
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LLMs-Fine--Tuning-red?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLMs Badge"/>
-  <img src="https://img.shields.io/badge/RAG_Systems-VectorDB-blueviolet?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG Badge"/>
-  <img src="https://img.shields.io/badge/MLOps-Production-orange?style=for-the-badge&logo=kubernetes&logoColor=white" alt="MLOps Badge"/>
-  <img src="https://img.shields.io/badge/Workflow_Automation-n8n-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Automation Badge"/>
-</div>
+| Domaine | Technologies |
+| :-- | :-- |
+| **GenAI et LLM** | RAG · Agents et multi-agents · LangChain · Fine-tuning · MCP · vLLM · Ollama · Function calling · Évaluation |
+| **Documents et vision** | Docling · PyMuPDF · OCR · VLM · LayoutLM · Computer vision · NER |
+| **Deep learning** | PyTorch · Transformers · BERT · spaCy · Flair |
+| **MLOps et DevOps** | Docker · Kubernetes · Terraform · MLflow · GitLab CI/CD · Azure DevOps · Grafana |
+| **Data engineering** | Spark · Kafka · Airflow · BigQuery · Cassandra · HDFS · ELK |
+| **Cloud et bases** | AWS · GCP · Azure · FAISS · PostgreSQL · MySQL |
+| **Développement** | Python · SQL · R · Java · C++ · FastAPI · React · Streamlit |
 
-<br>
+<br/>
 
-<div id="contact-links" align="center">
-  <a href="https://www.linkedin.com/in/samir-ait-abbou-b5090a1bb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:samiraitabbou2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://portfolio-liart-seven-83.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=samir-aitabbou&style=flat-square&color=blue" alt="Profile views"/>
-</div>
+## `05` Publications
 
----
+| Sujet | |
+| :-- | --: |
+| **API Cloud ou infrastructure locale** : sur 300 M de tokens par mois, environ 28 000 $ contre 3 300 $ la première année | [Lire](https://www.linkedin.com/feed/update/urn:li:activity:7434555048946388993/) |
+| **Optimiser le choix des modèles d'embeddings** pour les projets RAG | [Lire](https://www.linkedin.com/pulse/optimiser-le-choix-des-mod%C3%A8les-dembeddings-pour-les-rag-ait-abbou-gmhue/) |
+| **AI Act, article 15** : exactitude, robustesse et cybersécurité des systèmes à haut risque | [Lire](https://www.linkedin.com/feed/update/urn:li:activity:7480775219897524224/) |
+| **Quelle méthode d'inférence choisir ?** Hugging Face, endpoints, local, navigateur | [Lire](https://www.linkedin.com/feed/update/urn:li:activity:7345611312535617536/) |
+| **IA durable** : distillation, quantization, LoRA, mesure carbone | [Lire](https://www.linkedin.com/feed/update/urn:li:activity:7311033151022075904/) |
 
-## 🔭 Currently Working On
-<p align="center">
-  <strong>Agent MAP:</strong> Système de navigation intelligent basé sur LLMs pour Aix-Marseille Université (LangChain + RAG).
-  <br>
-  <strong>LLM Sovereignty:</strong> Exploration et Fine-Tuning de modèles Open Source pour des cas d'usage sécurisés (ollama, HuggingFace).
-  <br>
-  <strong>MLOps:</strong> Optimisation des pipelines CI/CD pour un déploiement zero-downtime (Docker/Kubernetes).
-</p>
+<br/>
 
----
+## `06` Parcours
 
-## 💡 Ma Philosophie : Transformer la Data en Intelligence Évolutive 
-👋 Bonjour ! Je suis **Samir AIT-ABBOU**, Ingénieur IA & Consultant Data Science basé à **Marseille, France**. 
+| Période | Rôle | Organisation |
+| :-- | :-- | :-- |
+| 2024 → aujourd'hui | **Consultant Data Scientist, GenAI et MLOps** | MOVE2DIGITAL |
+| 2024 | Data Scientist stagiaire, benchmark LLM et pipeline de données | Alteca |
+| 2023 | Big Data Engineer stagiaire, suivi des ressources en eau | UM6P |
+| 2022 | Big Data Engineer stagiaire, analyse des coupures d'électricité | MediaCaris |
+| 2022 | Data Scientist stagiaire, classification NLP de textes scientifiques | 3D Smart Factory |
 
-Mon expertise se concentre sur l'ensemble de la chaîne de valeur de l'**Intelligence Artificielle Générative** : du **Fine-Tuning de LLMs** à la conception d'**Architectures RAG de pointe** et au déploiement d'**Agents IA autonomes** en production. Mon objectif est de fournir des solutions **scalables, sécurisées et performantes** dans des environnements cloud complexes (GCP, AWS).
+| Période | Diplôme | Établissement |
+| :-- | :-- | :-- |
+| 2023 → 2024 | **Master IA (M2)**, Intelligence Artificielle et Computer Science | Avignon Université |
+| 2020 → 2023 | **Cycle ingénieur**, Logiciels et Systèmes Intelligents | FST Tanger |
+| 2018 → 2020 | **DEUST MIP** | FST Gueliz, Marrakech |
+| 2018 | **Baccalauréat** option internationale, sciences mathématiques A, mention Bien | Lycée Moulay Ismail |
 
----
+**Certifications (14)** : RAG et Vector Databases · LLM Fine-Tuning et Deployment · Securing GenAI contre le prompt injection · GenAI sur Azure · Template-Driven Prompt Workflows · Hugging Face (Supervised Finetuning, MCP Automation in Production, Fundamentals of MCP, AI Agents Fundamentals) · n8n (AI Agent Developer, Workflows with AI Agents, Webhooks Expert, Deploying et Monetizing AI Workflows) · InnovatiCS Data Science et IA.
 
-## 🧠 Compétences Techniques (The Full Stack)
-
-| Catégorie | Compétences & Outils | 
-| :--- | :--- |
-| **GenAI & LLMs** | 🔹 RAG Systems · **AI Agents (LangChain)** · **LLM Fine-Tuning** · **ollama** · Prompt Engineering · LLM Benchmarking |
-| **MLOps & DevOps** | 🔹 **Docker** · **Kubernetes** · **GitLab CI/CD** · Azure DevOps · **MLflow** · **Terraform** · Monitoring (Grafana) |
-| **Data Engineering** | 🔹 **Apache Spark** · **Apache Kafka** · **Airflow** · BigQuery · Cassandra · HDFS · ELK Stack |
-| **Deep Learning & NLP** | 🔹 **Transformers** · Extraction d'Information (NER) · LayoutLM · BERT · Spacy · Flair |
-| **Cloud & DB** | 🔹 **GCP (Cloud Native)** · AWS · FAISS (Vector DB) · PostgreSQL · MySQL |
-| **Langages & APIs** | 🔹 **Python** · SQL · R · Java · C++ · FastAPI · Streamlit |
-
----
-
-## 💼 Expériences Professionnelles Récentes (Impact & Innovation)
-
-### 🔬 AI Engineer | Data Scientist – Aix-Marseille Université (Sept. 2024 – Présent)
-* **Architecte GenAI & RAG :** Direction de la conception et du déploiement de solutions d'IA Générative (LLMs, RAG, Agents IA) utilisant **LangChain, ollama, MCP** et **GCP**.
-* **Projets d'Innovation (POCs) :**
-    * **MAP Conversational Assistant** : Assistant de guidage sur campus (Géolocalisation, PMR).
-    * **Administrative AI Agent** : Automatisation des requêtes internes administratives.
-    * **OCR Engine** : Moteur de traitement documentaire automatisé.
-    * **Now4Women Health Assistant** : Programme personnalisé de bien-être pour la périménopause/ménopause.
-* **Stratégie IA :** Réalisation de diagnostics, études de faisabilité et programmes de formation pour accélérer l'adoption de l'IA.
-
-### 🤖 Data Engineer / AI – Alteca, Paris (Fév. 2024 – Août 2024)
-* **Optimisation LLM :** **Benchmarking** et évaluation de l'efficacité de LLMs de codage (**CodeLlama3, GPT-4**) pour la génération et le débogage.
-* **Pipeline Data Distribué :** Mise en place d'un pipeline complet : Ingestion temps réel (**Kafka**), Traitement distribué (**Spark**), Stockage (**Cassandra/BigQuery**), Orchestration (**Airflow**).
-* **MLOps :** Déploiement cloud sur GCP via **Docker** et automatisation CI/CD (Azure DevOps/GitLab).
-
-### 🌍 Big Data Engineer – UM6P (Mohammed VI Polytechnic University) (Mars 2023 – Août 2023)
-* Développement d'un pipeline de données géospatiales en **Architecture Lambda** (**Kafka, Spark, HDFS**).
-* Implémentation de tableaux de bord **Grafana** pour le monitoring temps réel des ressources hydriques.
-
----
-
-## 🏅 Certifications Clés (Focused on GenAI & Automation)
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Hugging_Face-Supervised_Finetuning-15A4FA?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face Finetuning"/>
-  <img src="https://img.shields.io/badge/RAG_Solutions-Vector_Databases-6D0F93?style=flat&logo=databricks&logoColor=white" alt="RAG Certification"/>
-  <img src="https://img.shields.io/badge/LLM_Deployment-Azure-0078D4?style=flat&logo=azure&logoColor=white" alt="Azure LLM Deployment"/>
-  <img src="https://img.shields.io/badge/n8n_Automation-AI_Agent_Developer-0097D8?style=flat&logo=n8n&logoColor=white" alt="n8n AI Agent"/>
-</div>
-<br>
-<details>
-<summary><strong>Voir la liste complète des certifications</strong></summary>
 
-* Supervised Finetuning (Hugging Face)
-* Fundamentals of MCP (Hugging Face)
-* Building and Deploying RAG Solutions with Vector Databases (CompleteAiTraining.com)
-* Fine-Tuning and Deploying Large Language Models for Practical Applications (CompleteAiTraining.com)
-* n8n Webhooks Expert—Design and Automate Workflows (CompleteAiTraining.com)
-* n8n Automation & AI Agent Developer (CompleteAiTraining.com)
-* Deploying and Managing Generative AI Applications with Azure (CompleteAiTraining.com)
-</details>
+### Un projet IA à cadrer, prototyper ou déployer ?
 
----
+<a href="mailto:samiraitabbou2001@gmail.com"><img src="https://img.shields.io/badge/samiraitabbou2001%40gmail.com-101722?style=for-the-badge&logo=gmail&logoColor=2dd4bf&labelColor=101722&color=1f2b3b" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/samir-ait-abbou-b5090a1bb/"><img src="https://img.shields.io/badge/LinkedIn-Samir%20AIT--ABBOU-101722?style=for-the-badge&logo=linkedin&logoColor=2dd4bf&labelColor=101722&color=1f2b3b" alt="LinkedIn"/></a>
 
-## ⚙️ Languages & Tools (The AI Stack)
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="50" height="50"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="50" height="50"/> </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="50" height="50"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/> </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="HuggingFace" width="50" height="50"/> </a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://docs.langchain.com/assets/images/brand-icon-b4f71a0624d6d0299f01831c19b6736a.png" alt="LangChain" width="50" height="50"/> </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2dd4bf,60:0f3d3a,100:0a0e14&section=footer" width="100%" alt=""/>
 
----
-
-## 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samir-aitabbou&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=8&custom_title=Statistiques%20GitHub%20de%20Samir" alt="GitHub Stats"/>
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=samir-aitabbou&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak"/>
-</p>
-
----
-<div align="center">
-  <p>🌍 Basé à **Marseille, France** | Ouvert aux **opportunités R&D** en GenAI, LLMs, et MLOps</p>
-  <p><strong><samp>« Build AI that matters. »</samp></strong></p>
 </div>
