@@ -16,10 +16,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/10%C3%97-PLUS%20RAPIDE%20QUE%20LE%20TEMPS%20R%C3%89EL-101722?style=for-the-badge&labelColor=0f766e" alt="10 fois plus rapide que le temps réel"/>
-<img src="https://img.shields.io/badge/24M%2B-ANALYSES%20OFFICIELLES%20TRAIT%C3%89ES-101722?style=for-the-badge&labelColor=0f766e" alt="24 millions d'analyses"/>
-<img src="https://img.shields.io/badge/1%20GPU-100%25%20LOCAL%2C%20PLUSIEURS%20MOD%C3%88LES-101722?style=for-the-badge&labelColor=0f766e" alt="1 GPU, 100 % local"/>
-<img src="https://img.shields.io/badge/8-RECOMMANDATIONS%20LINKEDIN-101722?style=for-the-badge&labelColor=0f766e" alt="8 recommandations"/>
+<img src="https://img.shields.io/badge/FOCUS-LLM%20%C2%B7%20RAG%20%C2%B7%20AGENTS-101722?style=for-the-badge&labelColor=0f766e" alt="Focus : LLM, RAG, agents"/>
+<img src="https://img.shields.io/badge/D%C3%89PLOIEMENT-CLOUD%20%C2%B7%20ON--PREMISE-101722?style=for-the-badge&labelColor=0f766e" alt="Déploiement : cloud et on-premise"/>
+<img src="https://img.shields.io/badge/SECTEURS-SANT%C3%89%20%C2%B7%20INDUSTRIE%20%C2%B7%20BTP%20%C2%B7%20DATA-101722?style=for-the-badge&labelColor=0f766e" alt="Secteurs : santé, industrie, BTP, data"/>
+<img src="https://img.shields.io/badge/DISPONIBILIT%C3%89-FRANCE%20%C2%B7%20HYBRIDE%20%C2%B7%20REMOTE-101722?style=for-the-badge&labelColor=0f766e" alt="Disponibilité : France, hybride, remote"/>
 
 </div>
 
