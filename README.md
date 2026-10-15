@@ -14,14 +14,14 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="25%"><h2>10×</h2><sub>transcription plus rapide<br/>que le temps réel</sub></td>
-<td align="center" width="25%"><h2>24 M+</h2><sub>analyses officielles<br/>traitées</sub></td>
-<td align="center" width="25%"><h2>1 GPU</h2><sub>partagé entre plusieurs<br/>modèles, 100 % local</sub></td>
-<td align="center" width="25%"><h2>8</h2><sub>recommandations<br/>clients et collègues</sub></td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://img.shields.io/badge/10%C3%97-PLUS%20RAPIDE%20QUE%20LE%20TEMPS%20R%C3%89EL-101722?style=for-the-badge&labelColor=0f766e" alt="10 fois plus rapide que le temps réel"/>
+<img src="https://img.shields.io/badge/24M%2B-ANALYSES%20OFFICIELLES%20TRAIT%C3%89ES-101722?style=for-the-badge&labelColor=0f766e" alt="24 millions d'analyses"/>
+<img src="https://img.shields.io/badge/1%20GPU-100%25%20LOCAL%2C%20PLUSIEURS%20MOD%C3%88LES-101722?style=for-the-badge&labelColor=0f766e" alt="1 GPU, 100 % local"/>
+<img src="https://img.shields.io/badge/8-RECOMMANDATIONS%20LINKEDIN-101722?style=for-the-badge&labelColor=0f766e" alt="8 recommandations"/>
+
+</div>
 
 <br/>
 
