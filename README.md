@@ -1,141 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0a0e14,60:0f3d3a,100:2dd4bf&text=Samir%20AIT-ABBOU&fontColor=e6edf3&fontSize=56&fontAlignY=36&desc=Senior%20Data%20Scientist%20%C2%B7%20GenAI%20Engineer&descSize=22&descAlignY=58&descColor=cbd5e1" width="100%" alt="Samir AIT-ABBOU"/>
+<img src="./assets/banner.png" width="100%" alt="Samir AIT-ABBOU — Data Scientist & ML Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=760&lines=LLM+%C2%B7+RAG+%C2%B7+architectures+multi-agents;Du+cadrage+%C3%A0+la+mise+en+production;Cloud+ou+100%25+on-premise+%C2%B7+vLLM+%C2%B7+Ollama;Marseille%2C+France+%C2%B7+Ouvert+aux+opportunit%C3%A9s" alt="Typing"/>
+# Samir AIT-ABBOU
+
+**Data Scientist & ML Engineer** · NLP · Machine Learning · LLM · IA agentique
+<br/>
+<sub>Marseille, France · Consultant IA chez MOVE2DIGITAL (European Digital Innovation Hub)</sub>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/samir-ait-abbou-b5090a1bb/"><img src="https://img.shields.io/badge/LinkedIn-3%20700%2B%20abonn%C3%A9s-101722?style=for-the-badge&logo=linkedin&logoColor=2dd4bf&labelColor=101722&color=1f2b3b" alt="LinkedIn"/></a>
-<a href="https://portfolio-liart-seven-83.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-voir%20le%20site-101722?style=for-the-badge&logo=vercel&logoColor=2dd4bf&labelColor=101722&color=1f2b3b" alt="Portfolio"/></a>
-<a href="mailto:samiraitabbou2001@gmail.com"><img src="https://img.shields.io/badge/Email-me%20contacter-101722?style=for-the-badge&logo=gmail&logoColor=2dd4bf&labelColor=101722&color=1f2b3b" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/samir-ait-abbou-b5090a1bb/"><img src="https://img.shields.io/badge/LinkedIn-0F6E6E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://portfolio-liart-seven-83.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F6E6E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:samir.1.aitabbou@gmail.com"><img src="https://img.shields.io/badge/Email-0F6E6E?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
 <br/>
+
+Je conçois et mets en production des systèmes d'IA, du machine learning classique aux LLM. Ingénieur en systèmes intelligents et diplômé d'un Master IA, je choisis l'approche adaptée à chaque problème (modèle ML, règles déterministes ou LLM) et je mesure ce que je livre.
+
+Ma spécialité : **l'IA on-premise**, avec des modèles auto-hébergés sur GPU et sans dépendance au cloud, pour des clients en santé, industrie, énergie et environnement.
+
+<br/>
+
+## Domaines
+
+| | Ce que je fais | En production chez |
+| :-- | :-- | :-- |
+| **Machine & Deep Learning** | Détection d'anomalies, computer vision, classification, industrialisation MLOps | Greencityzen, Sepalumic |
+| **NLP & Speech** | Extraction documentaire, OCR, transcription et diarisation, classification de textes | Rofim, D3E |
+| **LLM & GenAI** | LLM auto-hébergés (vLLM), RAG, modèles de vision, plusieurs modèles sur un seul GPU | D3E, Rofim |
+| **IA agentique** | Systèmes multi-agents, function calling, guardrails, anti-hallucination | Laneva Boats, Now4Women |
+
+<br/>
+
+## Réalisations
+
+| Client | Mission | Résultat |
+| :-- | :-- | :-- |
+| **Rofim** · santé | Migration d'un pipeline de transcription médicale d'AWS vers du 100 % auto-hébergé (pyannote, Whisper, Kyutai, vLLM) | Jusqu'à **10× plus rapide que le temps réel**, sans cloud tiers |
+| **Laneva Boats** · naval | 3 agents spécialisés (Google ADK) pour automatiser les rapports de conformité ES-TRIN, benchmark RAGAS de 6 modèles d'embeddings | **3–5 jours → 30 min** · MRR 0,950 · Recall@5 96,7 % |
+| **D3E** · ingénierie | Plateforme documentaire on-premise : extraction multimodale (Docling, Qwen2.5-VL), OCR, assistant RAG | **3 modèles orchestrés sur un seul GPU** |
+| **D3E** · ingénierie | LLM local intégré à un ERP par function calling, guardrails SQL, inférence Kubernetes | **1 200+ tables** interrogeables en langage naturel |
+| **Candide Blue** · eau | Pipeline de recommandation de filtration, jointure géospatiale adresse → réseau d'eau (GeoPandas, PostGIS) | **24 M d'analyses** · 98,7 % de couverture |
+| **Greencityzen** · IoT | Autoencodeur Conv1D de détection d'anomalies industrialisé en microservice (PyTorch, MLflow, FastAPI) | Modèle réentraînable en production |
+| **Sepalumic** · industrie | Vision par ordinateur pour identifier des profilés aluminium sur photos terrain | Identification automatique en atelier |
+| **Now4Women** · santé | Plateforme multi-agents (LangChain, OpenAI Agents SDK) déployée en serverless sur AWS avec Terraform | Du diagnostic à la production |
+
+<br/>
+
+## Stack
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/FOCUS-LLM%20%C2%B7%20RAG%20%C2%B7%20AGENTS-101722?style=for-the-badge&labelColor=0f766e" alt="Focus : LLM, RAG, agents"/>
-<img src="https://img.shields.io/badge/D%C3%89PLOIEMENT-CLOUD%20%C2%B7%20ON--PREMISE-101722?style=for-the-badge&labelColor=0f766e" alt="Déploiement : cloud et on-premise"/>
-<img src="https://img.shields.io/badge/SECTEURS-SANT%C3%89%20%C2%B7%20INDUSTRIE%20%C2%B7%20BTP%20%C2%B7%20DATA-101722?style=for-the-badge&labelColor=0f766e" alt="Secteurs : santé, industrie, BTP, data"/>
-<img src="https://img.shields.io/badge/DISPONIBILIT%C3%89-FRANCE%20%C2%B7%20HYBRIDE%20%C2%B7%20REMOTE-101722?style=for-the-badge&labelColor=0f766e" alt="Disponibilité : France, hybride, remote"/>
-
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,kubernetes,terraform,aws,gcp,kafka,postgres,react,linux&perline=14&theme=dark" alt="Stack"/>
 </div>
 
 <br/>
-
-Je conçois et industrialise des solutions d'IA générative robustes : **LLM, RAG, agents**, avec une exigence constante sur l'évaluation, l'optimisation et la **sécurisation**. Cloud ou **on-premise**, du diagnostic de maturité à la mise en production, avec un objectif unique : l'impact métier.
-
-<br/>
-
-## `01` Réalisations
-
-<table>
-<tr>
-<td width="50%" valign="top"><b>Rofim</b> &nbsp;<sub><code>SANTÉ / VOIX</code></sub><br/><br/>Pipeline de transcription médicale et de comptes rendus migré vers du <b>100 % self-hosted</b>. Jusqu'à 10× plus rapide que le temps réel.<br/><br/><sub><code>pyannote</code> <code>Whisper</code> <code>Kyutai</code> <code>vLLM</code></sub></td>
-<td width="50%" valign="top"><b>D3E</b> &nbsp;<sub><code>DOCUMENTS / RAG</code></sub><br/><br/>Extraction documentaire, OCR de bons de livraison et assistant RAG pour bureaux d'études, sur <b>un seul GPU</b> mutualisé.<br/><br/><sub><code>Docling</code> <code>PyMuPDF</code> <code>VLM</code> <code>Ollama</code></sub></td>
-</tr>
-<tr>
-<td valign="top"><b>D3E</b> &nbsp;<sub><code>ERP / LLM LOCAL</code></sub><br/><br/>Assistant conversationnel branché sur un ERP WinDev : function calling, API FastAPI et procédures SQL.<br/><br/><sub><code>Function calling</code> <code>FastAPI</code> <code>SQL</code> <code>Docker GPU</code></sub></td>
-<td valign="top"><b>Candide Blue</b> &nbsp;<sub><code>DATA / GÉOSPATIAL</code></sub><br/><br/>Recommandation nationale de filtration d'eau à partir de <b>24 M+ d'analyses</b> officielles croisées à des données géospatiales.<br/><br/><sub><code>Big data</code> <code>Géospatial</code></sub></td>
-</tr>
-<tr>
-<td valign="top"><b>Laneva Boats</b> &nbsp;<sub><code>CONFORMITÉ / AGENTS</code></sub><br/><br/>Pipeline RAG multi-agents pour les rapports navals ES-TRIN, <b>anti-hallucination</b> par calculs déterministes.<br/><br/><sub><code>RAG</code> <code>Multi-agents</code> <code>ES-TRIN</code></sub></td>
-<td valign="top"><b>Sepalumic</b> &nbsp;<sub><code>VISION / INDUSTRIE</code></sub><br/><br/>Identification automatique de profilés aluminium à partir de photos prises en conditions réelles d'atelier.<br/><br/><sub><code>Computer vision</code> <code>Industrie</code></sub></td>
-</tr>
-<tr>
-<td valign="top"><b>GreenCityzen</b> &nbsp;<sub><code>MLOPS / IOT</code></sub><br/><br/>Détection d'anomalies IoT industrialisée en microservice, avec formation des équipes produit et ingénierie.<br/><br/><sub><code>MLflow</code> <code>FastAPI</code> <code>Formation</code></sub></td>
-<td valign="top"><b>Now4Women</b> &nbsp;<sub><code>AGENTS / SANTÉ</code></sub><br/><br/>Plateforme multi-agents générant et adaptant des programmes de bien-être sur 90 jours, avec mémoire conversationnelle.<br/><br/><sub><code>Multi-agents</code> <code>Mémoire</code> <code>Extraction</code></sub></td>
-</tr>
-</table>
-
-<br/>
-
-## `02` Méthode
-
-| 1. Diagnostic | 2. POC | 3. Production | 4. Formation |
-| :-- | :-- | :-- | :-- |
-| Maturité IA, faisabilité, arbitrage coût et souveraineté | RAG, agents, vision, OCR : valider la valeur rapidement | Cloud ou 100 % local, MLOps, CI/CD, monitoring | Sessions sur mesure pour les équipes produit et ingénierie |
-
-<br/>
-
-## `03` Témoignages
-
-> *« Une vraie maîtrise des architectures IA locales et une capacité à les intégrer dans un système d'information existant pour répondre à des problématiques métier concrètes. Sérieux, rigoureux, force de proposition. »*
-> **Benjamin Navarrete**, Responsable informatique groupe, D3D · *client*
-
-> *« Samir was reliable, structured, and clear in his approach, and delivered exactly what we needed at that early stage. I appreciated his professionalism and his ability to translate our requirements into solid technical work. »*
-> **Natalia Gaydukova**, Founder & CEO, NOW For Women · *client*
-
-> *« J'apprécie sa maîtrise des technologies d'IA générative, son sérieux et sa capacité à transformer des problématiques métiers en solutions concrètes. Je le recommande sans hésitation. »*
-> **Christophe Bansart**, EdTech, IA et EDIH · *partenaire*
-
-> *« Samir quickly established himself as a key collaborator thanks to his ability to design innovative AI solutions and develop high-performing data pipelines. »*
-> **Victor Tancrez**, AI Engineer & Data Scientist, EDIH · *collègue*
-
-<sub>Extraits de recommandations publiées sur <a href="https://www.linkedin.com/in/samir-ait-abbou-b5090a1bb/details/recommendations/">LinkedIn</a> (8 reçues).</sub>
-
-<br/>
-
-## `04` Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,docker,kubernetes,terraform,aws,gcp,azure,kafka,spark,airflow,grafana,postgres,mysql,gitlab,linux&perline=9&theme=dark" alt="Stack"/>
-</div>
 
 | Domaine | Technologies |
 | :-- | :-- |
-| **GenAI et LLM** | RAG · Agents et multi-agents · LangChain · Fine-tuning · MCP · vLLM · Ollama · Function calling · Évaluation |
-| **Documents et vision** | Docling · PyMuPDF · OCR · VLM · LayoutLM · Computer vision · NER |
-| **Deep learning** | PyTorch · Transformers · BERT · spaCy · Flair |
-| **MLOps et DevOps** | Docker · Kubernetes · Terraform · MLflow · GitLab CI/CD · Azure DevOps · Grafana |
-| **Data engineering** | Spark · Kafka · Airflow · BigQuery · Cassandra · HDFS · ELK |
-| **Cloud et bases** | AWS · GCP · Azure · FAISS · PostgreSQL · MySQL |
-| **Développement** | Python · SQL · R · Java · C++ · FastAPI · React · Streamlit |
+| **Machine & Deep Learning** | PyTorch · TensorFlow · Scikit-learn · CNN · LSTM · autoencodeurs · computer vision |
+| **NLP & Speech** | Transformers · BERT · Hugging Face · Docling · OCR · Whisper · Kyutai · pyannote |
+| **LLM & GenAI** | vLLM · Ollama · RAG · Qdrant · FAISS · Qwen2.5-VL · fine-tuning |
+| **IA agentique** | Google ADK · OpenAI Agents SDK · LangChain · LangGraph · MCP · n8n · guardrails |
+| **Évaluation** | RAGAS · Langfuse · MLflow · benchmarks (MRR, Recall@k) |
+| **Data** | Python · SQL · Pandas · GeoPandas · PostgreSQL/PostGIS · Spark · Kafka · Airflow · BigQuery |
+| **MLOps & Cloud** | Docker · Kubernetes · FastAPI · CI/CD · Terraform · AWS · GCP |
 
 <br/>
 
-## `05` Publications
+## Écrits
 
-| Sujet | |
-| :-- | --: |
-| **API Cloud ou infrastructure locale** : sur 300 M de tokens par mois, environ 28 000 $ contre 3 300 $ la première année | [Lire](https://www.linkedin.com/feed/update/urn:li:activity:7434555048946388993/) |
-| **Optimiser le choix des modèles d'embeddings** pour les projets RAG | [Lire](https://www.linkedin.com/pulse/optimiser-le-choix-des-mod%C3%A8les-dembeddings-pour-les-rag-ait-abbou-gmhue/) |
-| **AI Act, article 15** : exactitude, robustesse et cybersécurité des systèmes à haut risque | [Lire](https://www.linkedin.com/feed/update/urn:li:activity:7480775219897524224/) |
-| **Quelle méthode d'inférence choisir ?** Hugging Face, endpoints, local, navigateur | [Lire](https://www.linkedin.com/feed/update/urn:li:activity:7345611312535617536/) |
-| **IA durable** : distillation, quantization, LoRA, mesure carbone | [Lire](https://www.linkedin.com/feed/update/urn:li:activity:7311033151022075904/) |
+- **[API cloud ou infrastructure locale ?](https://www.linkedin.com/feed/update/urn:li:activity:7434555048946388993/)** Étude de coûts sur 300 M de tokens par mois : environ 28 000 $ contre 3 300 $ la première année
+- **[Optimiser le choix des modèles d'embeddings pour un RAG](https://www.linkedin.com/pulse/optimiser-le-choix-des-mod%C3%A8les-dembeddings-pour-les-rag-ait-abbou-gmhue/)** Méthode de benchmark et critères de sélection
+- **[AI Act, article 15](https://www.linkedin.com/feed/update/urn:li:activity:7480775219897524224/)** Exactitude, robustesse et cybersécurité des systèmes d'IA à haut risque
+- **[Quelle méthode d'inférence choisir ?](https://www.linkedin.com/feed/update/urn:li:activity:7345611312535617536/)** API managée, endpoints dédiés, local ou navigateur
+- **[IA durable](https://www.linkedin.com/feed/update/urn:li:activity:7311033151022075904/)** Distillation, quantization, LoRA et mesure de l'empreinte carbone
 
 <br/>
 
-## `06` Parcours
+## Parcours
 
-| Période | Rôle | Organisation |
-| :-- | :-- | :-- |
-| 2024 → aujourd'hui | **Consultant Data Scientist, GenAI et MLOps** | MOVE2DIGITAL |
-| 2024 | Data Scientist stagiaire, benchmark LLM et pipeline de données | Alteca |
-| 2023 | Big Data Engineer stagiaire, suivi des ressources en eau | UM6P |
-| 2022 | Big Data Engineer stagiaire, analyse des coupures d'électricité | MediaCaris |
-| 2022 | Data Scientist stagiaire, classification NLP de textes scientifiques | 3D Smart Factory |
+| | |
+| :-- | :-- |
+| **2024 → aujourd'hui** | Consultant Data Scientist & ML Engineer · MOVE2DIGITAL |
+| **2024** | Data Scientist (stage de fin d'études) · Alteca |
+| **2023** | Big Data Engineer (stage) · UM6P |
+| **2022** | Data Scientist (stages) · MediaCaris, 3D Smart Factory (NLP) |
+| **2023 – 2024** | Master Informatique, Intelligence Artificielle · Avignon Université |
+| **2020 – 2023** | Diplôme d'ingénieur, Logiciels et Systèmes Intelligents · FST Tanger |
 
-| Période | Diplôme | Établissement |
-| :-- | :-- | :-- |
-| 2023 → 2024 | **Master IA (M2)**, Intelligence Artificielle et Computer Science | Avignon Université |
-| 2020 → 2023 | **Cycle ingénieur**, Logiciels et Systèmes Intelligents | FST Tanger |
-| 2018 → 2020 | **DEUST MIP** | FST Gueliz, Marrakech |
-| 2018 | **Baccalauréat** option internationale, sciences mathématiques A, mention Bien | Lycée Moulay Ismail |
+**Certifications** · Hugging Face : Supervised Fine-tuning, AI Agents Fundamentals, Fundamentals of MCP, MCP Automation in Production · InnovatiCS : Data Science and AI
 
-**Certifications (14)** : RAG et Vector Databases · LLM Fine-Tuning et Deployment · Securing GenAI contre le prompt injection · GenAI sur Azure · Template-Driven Prompt Workflows · Hugging Face (Supervised Finetuning, MCP Automation in Production, Fundamentals of MCP, AI Agents Fundamentals) · n8n (AI Agent Developer, Workflows with AI Agents, Webhooks Expert, Deploying et Monetizing AI Workflows) · InnovatiCS Data Science et IA.
+<br/>
+
+> *« […] une vraie maîtrise des architectures IA locales, mais surtout une capacité à les intégrer intelligemment dans un système d'information existant. »*
+> **Benjamin Navarrete**, Responsable informatique groupe, D3D · client
+
+> *« Samir was reliable, structured, and clear in his approach, and delivered exactly what we needed at that early stage. »*
+> **Natalia Gaydukova**, Founder & CEO, NOW For Women · client
 
 <br/>
 
 <div align="center">
-
-### Un projet IA à cadrer, prototyper ou déployer ?
-
-<a href="mailto:samiraitabbou2001@gmail.com"><img src="https://img.shields.io/badge/samiraitabbou2001%40gmail.com-101722?style=for-the-badge&logo=gmail&logoColor=2dd4bf&labelColor=101722&color=1f2b3b" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/samir-ait-abbou-b5090a1bb/"><img src="https://img.shields.io/badge/LinkedIn-Samir%20AIT--ABBOU-101722?style=for-the-badge&logo=linkedin&logoColor=2dd4bf&labelColor=101722&color=1f2b3b" alt="LinkedIn"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2dd4bf,60:0f3d3a,100:0a0e14&section=footer" width="100%" alt=""/>
-
+<sub>Un projet de NLP, de ML ou d'IA on-premise ? <a href="mailto:samir.1.aitabbou@gmail.com">Écrivez-moi</a> ou retrouvez-moi sur <a href="https://www.linkedin.com/in/samir-ait-abbou-b5090a1bb/">LinkedIn</a>.</sub>
 </div>
