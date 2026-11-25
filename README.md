@@ -44,7 +44,7 @@ I design and ship AI systems to production, from classic machine learning to LLM
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
-| **[code-mode-bench](https://github.com/samir-aitabbou/code-mode-bench)** | Controlled benchmark of Code Mode vs classic MCP tool calling on a single 24 GB GPU: 300 trials, automatic SQL grading, raw results and traces. [Read the write-up](https://samiraitabbou.hashnode.dev/code-mode-benchmark-24gb-gpu). | Python · vLLM · MCP · Docker |
+| **[code-mode-bench](https://github.com/samir-aitabbou/code-mode-bench)** | Controlled benchmark of Code Mode vs classic MCP tool calling on a single 24 GB GPU: 300 trials, automatic SQL grading, raw results and traces. [Read the write-up](https://samiraitabbou.hashnode.dev/i-benchmarked-code-mode-vs-classic-mcp-on-a-single-24-gb-gpu). | Python · vLLM · MCP · Docker |
 ## Writing
 
 - **[I Benchmarked Code Mode vs Classic MCP on a Single 24 GB GPU](https://samiraitabbou.hashnode.dev/code-mode-benchmark-24gb-gpu)** · 280 agent trials, two open models, six tasks
