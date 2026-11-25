@@ -35,9 +35,22 @@ I design and ship AI systems to production, from classic machine learning to LLM
 
 ## Featured
 
+<div align="center">
 <a href="https://github.com/samir-aitabbou/code-mode-bench"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samir-aitabbou&repo=code-mode-bench&theme=transparent&hide_border=true&title_color=0F6E6E&icon_color=0F6E6E" alt="code-mode-bench"/></a>
+<a href="https://github.com/samir-aitabbou/AI-Embedding-Advisor-Pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samir-aitabbou&repo=AI-Embedding-Advisor-Pro&theme=transparent&hide_border=true&title_color=0F6E6E&icon_color=0F6E6E" alt="AI-Embedding-Advisor-Pro"/></a>
+<br/>
+<a href="https://github.com/samir-aitabbou/rag-chunk-optimizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samir-aitabbou&repo=rag-chunk-optimizer&theme=transparent&hide_border=true&title_color=0F6E6E&icon_color=0F6E6E" alt="rag-chunk-optimizer"/></a>
+<a href="https://github.com/samir-aitabbou/Pull-Request-Agent-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samir-aitabbou&repo=Pull-Request-Agent-Project&theme=transparent&hide_border=true&title_color=0F6E6E&icon_color=0F6E6E" alt="Pull-Request-Agent-Project"/></a>
+</div>
 
-**[code-mode-bench](https://github.com/samir-aitabbou/code-mode-bench)**: Code Mode vs classic MCP tool calling, measured on a single 24 GB GPU with open models served by vLLM. 300 trials, automatic grading, raw results and traces included.
+<br/>
+
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| **[code-mode-bench](https://github.com/samir-aitabbou/code-mode-bench)** | Controlled benchmark of Code Mode vs classic MCP tool calling on a single 24 GB GPU: 300 trials, automatic SQL grading, raw results and traces. [Read the write-up](https://samiraitabbou.hashnode.dev/code-mode-benchmark-24gb-gpu). | Python · vLLM · MCP · Docker |
+| **[AI-Embedding-Advisor-Pro](https://github.com/samir-aitabbou/AI-Embedding-Advisor-Pro)** | Describe your NLP use case in plain language and get a justified top 3 of embedding models, cross-referenced with the MTEB benchmark. | JavaScript · Gemini API · MTEB · Docker |
+| **[rag-chunk-optimizer](https://github.com/samir-aitabbou/rag-chunk-optimizer)** | Conversational RAG agent and dashboard comparing 9 chunking strategies on retrieval relevance and speed. | Python · Streamlit · FAISS · Sentence Transformers |
+| **[Pull-Request-Agent-Project](https://github.com/samir-aitabbou/Pull-Request-Agent-Project)** | Webhook-driven agent that reads Hugging Face Hub discussions and opens pull requests with tag suggestions, through an MCP server. Built in the Hugging Face MCP course. | Python · FastMCP · FastAPI · Docker |
 
 ## Writing
 
