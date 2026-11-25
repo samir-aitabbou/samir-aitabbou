@@ -83,8 +83,12 @@ I design and ship AI systems to production, from classic machine learning to LLM
 ## GitHub activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=samir-aitabbou&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=prs,issues,contribs&custom_title=GitHub%20stats&theme=transparent&hide_border=true&title_color=0F6E6E&icon_color=0F6E6E" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=samir-aitabbou&show_icons=true&count_private=true&hide_rank=true&hide=prs,issues,contribs,stars&custom_title=GitHub%20stats&theme=transparent&hide_border=true&title_color=0F6E6E&icon_color=0F6E6E" alt="GitHub stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir-aitabbou&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=0F6E6E" alt="Top languages"/>
+<br/>
+<img height="180" src="https://streak-stats.demolab.com/?user=samir-aitabbou&theme=transparent&hide_border=true&ring=0F6E6E&fire=0F6E6E&currStreakLabel=0F6E6E&sideNums=0F6E6E&sideLabels=808080&dates=808080" alt="Contribution streak"/>
+<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samir-aitabbou&custom_title=Activity&theme=minimal&hide_border=true&bg_color=00000000&color=808080&line=0F6E6E&point=0F6E6E&area=true&area_color=0F6E6E&title_color=0F6E6E" alt="Contribution activity graph"/>
 </div>
 
 ## Background
