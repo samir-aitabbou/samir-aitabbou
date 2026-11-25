@@ -37,10 +37,7 @@ I design and ship AI systems to production, from classic machine learning to LLM
 
 <div align="center">
 <a href="https://github.com/samir-aitabbou/code-mode-bench"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samir-aitabbou&repo=code-mode-bench&theme=transparent&hide_border=true&title_color=0F6E6E&icon_color=0F6E6E" alt="code-mode-bench"/></a>
-<a href="https://github.com/samir-aitabbou/AI-Embedding-Advisor-Pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samir-aitabbou&repo=AI-Embedding-Advisor-Pro&theme=transparent&hide_border=true&title_color=0F6E6E&icon_color=0F6E6E" alt="AI-Embedding-Advisor-Pro"/></a>
-<br/>
-<a href="https://github.com/samir-aitabbou/rag-chunk-optimizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samir-aitabbou&repo=rag-chunk-optimizer&theme=transparent&hide_border=true&title_color=0F6E6E&icon_color=0F6E6E" alt="rag-chunk-optimizer"/></a>
-<a href="https://github.com/samir-aitabbou/Pull-Request-Agent-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samir-aitabbou&repo=Pull-Request-Agent-Project&theme=transparent&hide_border=true&title_color=0F6E6E&icon_color=0F6E6E" alt="Pull-Request-Agent-Project"/></a>
+
 </div>
 
 <br/>
